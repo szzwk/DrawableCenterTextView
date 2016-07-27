@@ -6,12 +6,6 @@ import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-/**
- * @author: yorkzhang
- * @time: 16/7/27 14:21
- * @email: xtcqw13@126.com
- * @note:
- */
 public class DrawableCenterTextView extends TextView {
 
     public DrawableCenterTextView(Context context, AttributeSet attrs, int defStyle) {
