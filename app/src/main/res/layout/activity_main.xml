@@ -22,4 +22,13 @@
         android:text="添加"
         android:textColor="#fd5224" />
 
+    <com.pt.basicwidget.RoundImageView
+        android:id="@+id/img_head"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="15dp"
+        android:src="@drawable/people" />
+
 </LinearLayout>
